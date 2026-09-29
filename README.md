@@ -5,7 +5,7 @@
 **Software Engineer & Quantitative Trader**
 
 <p align="center">
-  🚀 <i>"BTC to the moon! ETH, SOL... LFG! 🌕"</i>
+  🚀 <b>BTC, ETH, SOL to the moon! 🌕</b>
 </p>
 
 [![Status: Open to Work](https://img.shields.io/badge/Status-Open_To_Work-00c853?style=for-the-badge&logo=github)](mailto:antrinhht@gmail.com)
@@ -19,15 +19,14 @@
 ### ⚡ Overview
 
 - 💻 **Software Engineering:** Full-stack development with Python, TypeScript, React, and Node.js.
-- 📈 **Quantitative Trading:** Algorithmic systems, Pine Script (TradingView), Wyckoff & Order Flow *(aka the exact reason why I'm broke 📉💸)*.
+- 📈 **Quantitative Trading:** Algorithmic systems, Pine Script & Order Flow *(why I'm broke 📉)*.
 - ⚙️ **Automation & AI:** Building robust workflows, data pipelines, and automation tools.
 
 ---
 
 ### ☕ Support & Donations
 
-> 🚀 **BTC to the moon! ETH, SOL... and green candles for all! 🌕**  
-> *If you find my projects helpful, want to support the next bull run, or simply want to save a broke dev/trader from malnutrition:*
+Support my open-source projects and late-night builds:
 
 <div align="center">
 
