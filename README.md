@@ -1,6 +1,6 @@
 <div align="center">
 
-# Trinh An (Earl Trinh) 👋
+# Trinh An (Earl Trinh)
 
 <p align="center">
   <a href="https://github.com/antrinhht">
